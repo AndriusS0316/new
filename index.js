@@ -58,15 +58,3 @@ sk1 = tekstas + 1;
 // }
 
 
-// let tekstas = "20485";
-// let rez = parseInt(tekstas);
-
-
-// let rez = 0;
-// for (let i = 0; i < tekstas.length; i++) {
-// rez *= 10;
-// let skaitmuo = tekstas.charCodeAt(i) - 48;
-// rez += skaitmuo;
-// }
-
-
