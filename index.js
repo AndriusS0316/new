@@ -56,14 +56,20 @@ sk1 = tekstas + 1;
 // console.log(skaitmuo);
 // sk = (sk - sk % 10) / 10;
 // }
-let tekstas = "20485";
-let rez = parseInt(tekstas);
+
+
+// let tekstas = "20485";
+// let rez = parseInt(tekstas);
+
+
 // let rez = 0;
 // for (let i = 0; i < tekstas.length; i++) {
 // rez *= 10;
 // let skaitmuo = tekstas.charCodeAt(i) - 48;
 // rez += skaitmuo;
 // }
-console.log(rez);
-let sk = rez + 1;
-console.log(sk);
+
+
+// console.log(rez);
+// let sk = rez + 1;
+// console.log(sk);
